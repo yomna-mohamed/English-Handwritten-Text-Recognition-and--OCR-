@@ -8,8 +8,8 @@ Our simple model simulates the GRU decoder in EasyOCR is pre-trained model depen
 • Handwritten Character Recognition Model
 • Easy OCR Model
 ## Results:
-![alt text](imgs/a.PNG)
-![alt text](imgs/b.PNG)
-![alt text](imgs/c.PNG)
+![alt text](imgs_res/a.PNG)
+![alt text](imgs_res/b.PNG)
+![alt text](imgs_res/c.PNG)
 
 
